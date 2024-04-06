@@ -1,0 +1,19 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "massAccountJoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.17.0",
+    "axios": "^1.6.8",
+    "base-64": "^1.0.0",
+    "nsfwjs": "^4.1.0",
+    "puppeteer": "^22.6.2",
+    "sharp": "^0.33.3"
+  }
+}

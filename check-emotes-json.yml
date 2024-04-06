@@ -1,0 +1,37 @@
+name: Check emotes.json
+
+on: [push]
+
+jobs:
+  check-json:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 2 # Fetch previous commit for comparison
+
+    - name: Install jq
+      run: sudo apt-get install jq
+
+    - name: Check for removals in emotes.json
+      run: |
+        git checkout HEAD^ -- emotes.json
+        mv emotes.json emotes_old.json
+        git checkout HEAD -- emotes.json
+        
+        # Check for key or value removals
+        if ! jq --argfile old emotes_old.json --argfile new emotes.json -n '($old | keys_unsorted) as $oldKeys | ($new | keys_unsorted) as $newKeys | $oldKeys - $newKeys | length == 0 and (reduce $oldKeys[] as $key (true; . and ($old[$key] == $new[$key])))'; then
+          echo "Removal detected in emotes.json."
+          exit 1
+        fi
+
+    - name: Check all text is lowercase in emotes.json
+      run: |
+        if jq -r '.. | strings' emotes.json | grep '[A-Z]'; then
+          echo "Uppercase letters detected in emotes.json."
+          exit 1
+        else
+          echo "All text is lowercase in emotes.json."
+        fi
+
