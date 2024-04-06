@@ -19,6 +19,20 @@ const ghtoken = "github_pat_11AOATZ2Y0tQVZr4qGIGNs_hkddgZa898g6TkxJQ9PPipwbY3cuy
 
 const getCDNLink = (id, animated) => `https://cdn.discordapp.com/emojis/${id}.${animated ? "gif" : "webp"}`;
 
+
+function webpToPng() {
+    fs.readdirSync(`${__dirname}/data/`, {withFileTypes: true}).filter(o => o.name.endsWith('.webp')).map(async (emName) => {
+        sharp(`${__dirname}/data/${emName.name}`)
+        .png() // Convert to PNG
+        .toBuffer() // Convert to Buffer for tf.node.decodeImage
+        .then((buffer) => {
+            fs.rm(`${__dirname}/data/${emName.name}`, () => {});
+            fs.writeFile(`${__dirname}/data/${emName.name.replace(".webp", ".png")}`, buffer, () => console.log(emName.name))
+        })
+        .catch((error) => console.error('Error processing image:', error))
+    });
+}
+
 /*
 (async () => {
     const treeUrl = "https://api.github.com/repos/ION-Emotes/data/contents/data";
@@ -68,8 +82,8 @@ const getCDNLink = (id, animated) => `https://cdn.discordapp.com/emojis/${id}.${
 //     imgTensor.dispose();
 // })()
 
-const {checkNSFW, groupByFirstLetterOfKey} = require('../../bot/helpers.js');
-const {rem} = require('../../bot/ghpload.js');
+const {checkNSFW, groupByFirstLetterOfKey} = require('../bot/helpers.js');
+const {rem} = require('../bot/ghpload.js');
 
 async function getAndCheckAllNSFW() {
     /*
@@ -95,16 +109,7 @@ async function getAndCheckAllNSFW() {
 
     // const nsfw = JSON.parse(fs.readFileSync(`${__dirname}/data/nsfw.json`));
     // nsfw.map(o => download(`https://cdn.discordapp.com/emojis/${o.emojiname}`, () => console.log(o.emojiname)));
-    fs.readdirSync(`${__dirname}/data/`, {withFileTypes: true}).filter(o => o.name.endsWith('.webp')).map(async (emName) => {
-        sharp(`${__dirname}/data/${emName.name}`)
-        .png() // Convert to PNG
-        .toBuffer() // Convert to Buffer for tf.node.decodeImage
-        .then((buffer) => {
-            fs.rm(`${__dirname}/data/${emName.name}`, () => {});
-            fs.writeFile(`${__dirname}/data/${emName.name.replace(".webp", ".png")}`, buffer, () => console.log(emName.name))
-        })
-        .catch((error) => console.error('Error processing image:', error))
-    });
+    webpToPng();
 
     const nsfw = fs.readdirSync(`${__dirname}/data/`);
     const emotesAll = JSON.parse(fs.readFileSync(`${__dirname}/emotesAll.json`));
@@ -165,7 +170,9 @@ async function getAndCheckAllNSFW() {
     }
 }
 
-getAndCheckAllNSFW();
+// getAndCheckAllNSFW();
+
+webpToPng()
 
 // checkNSFW("https://cdn.discordapp.com/emojis/405460901718917121.webp");
 // checkNSFW("https://cdn.discordapp.com/emojis/1181859576845439016.webp");
