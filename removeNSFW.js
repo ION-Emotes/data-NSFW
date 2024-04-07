@@ -27,7 +27,7 @@ function webpToPng() {
         .toBuffer() // Convert to Buffer for tf.node.decodeImage
         .then((buffer) => {
             fs.rm(`${__dirname}/data/${emName.name}`, () => {});
-            fs.writeFile(`${__dirname}/data/${emName.name.replace(".webp", ".png")}`, buffer, () => console.log(emName.name))
+            fs.writeFile(`${__dirname}/data/${emName.name.replace(".webp", ".png")}`, buffer, () => console.log(`TRANSFORMED ${emName.name}`))
         })
         .catch((error) => console.error('Error processing image:', error))
     });
