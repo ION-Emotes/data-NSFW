@@ -170,9 +170,8 @@ async function getAndCheckAllNSFW() {
     }
 }
 
-// getAndCheckAllNSFW();
+getAndCheckAllNSFW().then(webpToPng);
 
-webpToPng()
 
 // checkNSFW("https://cdn.discordapp.com/emojis/405460901718917121.webp");
 // checkNSFW("https://cdn.discordapp.com/emojis/1181859576845439016.webp");
