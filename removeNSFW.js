@@ -15,7 +15,7 @@ const download = function (uri, callback) {
         request(uri).pipe(fs.createWriteStream(`${__dirname}/data/${filename}`)).on('close', callback);
     });
 };
-const ghtoken = "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";
+const {ghtoken} = require('./config.json');
 
 const getCDNLink = (id, animated) => `https://cdn.discordapp.com/emojis/${id}.${animated ? "gif" : "webp"}`;
 
@@ -122,6 +122,7 @@ async function getAndCheckAllNSFW() {
     try {
         // formatting
         const toRem = JSON.parse(fs.readFileSync(`${__dirname}/data/nsfw.json`));
+        // const toRem = JSON.parse(fs.readFileSync(`${__dirname}/data/toRem-nonsfw.json`));
         toRem.map(o => download(getCDNLink(o.id, o.animated), () => console.log(o.key)));
 
         const formatted = Object.fromEntries(toRem.map(o => [o.key, o]));
@@ -134,7 +135,7 @@ async function getAndCheckAllNSFW() {
                 const url = `${baseURL}/contents/${path}`;
                 // Get the current file content
                 const response = await axios.get(url, {
-                    headers: { 'Authorization': `token ${ghtoken}` }
+                    headers: { 'Authorization': `Bearer ${ghtoken}` }
                 });
 
                 // Decode the base64 content to a string
@@ -159,7 +160,7 @@ async function getAndCheckAllNSFW() {
         
                 // Commit the update
                 const updateResponse = await axios.put(url, updateData, {
-                    headers: { 'Authorization': `token ${ghtoken}` }
+                    headers: { 'Authorization': `Bearer ${ghtoken}` }
                 });
             }
             catch (err) { console.error(err); }

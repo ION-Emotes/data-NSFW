@@ -1,0 +1,1647 @@
+[
+    {
+        "id": "968452915658362880",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Love",
+        "key": "shiro_love"
+    },
+    {
+        "id": "968452935287713873",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Wave",
+        "key": "shiro_wave"
+    },
+    {
+        "id": "968454372306604132",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Cheer",
+        "key": "shiro_cheer"
+    },
+    {
+        "id": "968469373402628116",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Party",
+        "key": "shiro_party"
+    },
+    {
+        "id": "968469374451212348",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Hello",
+        "key": "shiro_hello"
+    },
+    {
+        "id": "968469375449436200",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Angry",
+        "key": "shiro_angry"
+    },
+    {
+        "id": "968469375755649054",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Heart",
+        "key": "shiro_heart"
+    },
+    {
+        "id": "968469377047490570",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Sad",
+        "key": "shiro_sad"
+    },
+    {
+        "id": "968665379075424276",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Pissed",
+        "key": "shiro_pissed"
+    },
+    {
+        "id": "968665430480785498",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Glasses",
+        "key": "shiro_glasses"
+    },
+    {
+        "id": "968665495475748874",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Kill",
+        "key": "shiro_kill"
+    },
+    {
+        "id": "968665531123109970",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_HeartBig",
+        "key": "shiro_heartbig"
+    },
+    {
+        "id": "968665650136506408",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_KEK",
+        "key": "shiro_kek"
+    },
+    {
+        "id": "968665668385931314",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Rich",
+        "key": "shiro_rich"
+    },
+    {
+        "id": "968665741261963305",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Stab",
+        "key": "shiro_stab"
+    },
+    {
+        "id": "968665833117200464",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Geez",
+        "key": "shiro_geez"
+    },
+    {
+        "id": "968665880256995408",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Troll",
+        "key": "shiro_troll"
+    },
+    {
+        "id": "968665924913745970",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_UWU",
+        "key": "shiro_uwu"
+    },
+    {
+        "id": "968665940680147035",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Heya",
+        "key": "shiro_heya"
+    },
+    {
+        "id": "968665989694779454",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Yeah",
+        "key": "shiro_yeah"
+    },
+    {
+        "id": "969795686889562132",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Lurker",
+        "key": "shiro_lurker"
+    },
+    {
+        "id": "969795688256913518",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Water",
+        "key": "shiro_water"
+    },
+    {
+        "id": "969795688558891048",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Music",
+        "key": "shiro_music"
+    },
+    {
+        "id": "969795689263538206",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Cozy",
+        "key": "shiro_cozy"
+    },
+    {
+        "id": "969795689787822101",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_OMG",
+        "key": "shiro_omg"
+    },
+    {
+        "id": "969795691025158154",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_GunPoint",
+        "key": "shiro_gunpoint"
+    },
+    {
+        "id": "970506394107269171",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Mad",
+        "key": "shiro_mad"
+    },
+    {
+        "id": "970506459785887814",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Waving",
+        "key": "shiro_waving"
+    },
+    {
+        "id": "970506461463609364",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Dance",
+        "key": "shiro_dance"
+    },
+    {
+        "id": "970506461782347838",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Bonk",
+        "key": "shiro_bonk"
+    },
+    {
+        "id": "970506461857841212",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_BearClaw",
+        "key": "shiro_bearclaw"
+    },
+    {
+        "id": "970506463736913970",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_CrackEgg",
+        "key": "shiro_crackegg"
+    },
+    {
+        "id": "970506464336683078",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_LightStick",
+        "key": "shiro_lightstick"
+    },
+    {
+        "id": "970508190557024266",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Cry",
+        "key": "shiro_cry"
+    },
+    {
+        "id": "970508191710474270",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_CryLaugh",
+        "key": "shiro_crylaugh"
+    },
+    {
+        "id": "970508192054394880",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_EvilLaugh",
+        "key": "shiro_evillaugh"
+    },
+    {
+        "id": "970508192083755038",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Fat",
+        "key": "shiro_fat"
+    },
+    {
+        "id": "970508192104718336",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Fire",
+        "key": "shiro_fire"
+    },
+    {
+        "id": "970508192167653476",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Evil",
+        "key": "shiro_evil"
+    },
+    {
+        "id": "970508192599666708",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Dab",
+        "key": "shiro_dab"
+    },
+    {
+        "id": "970509085604737075",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Gasm",
+        "key": "shiro_gasm"
+    },
+    {
+        "id": "970509087651557396",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_GG",
+        "key": "shiro_gg"
+    },
+    {
+        "id": "970509088196792350",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Gun",
+        "key": "shiro_gun"
+    },
+    {
+        "id": "970509088536526948",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Cool",
+        "key": "shiro_cool"
+    },
+    {
+        "id": "970509088666550272",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Hearts",
+        "key": "shiro_hearts"
+    },
+    {
+        "id": "970509088742080523",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Pat",
+        "key": "shiro_pat"
+    },
+    {
+        "id": "970509089736101889",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Hey",
+        "key": "shiro_hey"
+    },
+    {
+        "id": "970510480953188412",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Hi",
+        "key": "shiro_hi"
+    },
+    {
+        "id": "970510482043719710",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Money",
+        "key": "shiro_money"
+    },
+    {
+        "id": "970510482115006464",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Hype",
+        "key": "shiro_hype"
+    },
+    {
+        "id": "970510482211487744",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Lick",
+        "key": "shiro_lick"
+    },
+    {
+        "id": "970510482408603698",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Laser",
+        "key": "shiro_laser"
+    },
+    {
+        "id": "970510482408624168",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Knife",
+        "key": "shiro_knife"
+    },
+    {
+        "id": "970510483591426068",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Karate",
+        "key": "shiro_karate"
+    },
+    {
+        "id": "970512500758040656",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Cheering",
+        "key": "shiro_cheering"
+    },
+    {
+        "id": "970512500904853564",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_LoveU",
+        "key": "shiro_loveu"
+    },
+    {
+        "id": "970512501211029525",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_LOL",
+        "key": "shiro_lol"
+    },
+    {
+        "id": "970512501441716224",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Lurk",
+        "key": "shiro_lurk"
+    },
+    {
+        "id": "970512502624505906",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Lurking",
+        "key": "shiro_lurking"
+    },
+    {
+        "id": "970512503006175272",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_MiniGun",
+        "key": "shiro_minigun"
+    },
+    {
+        "id": "970512503274623078",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Drive",
+        "key": "shiro_drive"
+    },
+    {
+        "id": "970520286225125456",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Nani",
+        "key": "shiro_nani"
+    },
+    {
+        "id": "970520286413865011",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Pog",
+        "key": "shiro_pog"
+    },
+    {
+        "id": "970520286472593470",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Penguin",
+        "key": "shiro_penguin"
+    },
+    {
+        "id": "970520286883614752",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_PewPew",
+        "key": "shiro_pewpew"
+    },
+    {
+        "id": "970520286950727760",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Panic",
+        "key": "shiro_panic"
+    },
+    {
+        "id": "970520286975893544",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_PartyTime",
+        "key": "shiro_partytime"
+    },
+    {
+        "id": "970520288666198107",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Energy",
+        "key": "shiro_energy"
+    },
+    {
+        "id": "970524396869537832",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Scared",
+        "key": "shiro_scared"
+    },
+    {
+        "id": "970524396915654667",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Sheesh",
+        "key": "shiro_sheesh"
+    },
+    {
+        "id": "970524397167341638",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Sing",
+        "key": "shiro_sing"
+    },
+    {
+        "id": "970524397242822717",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Pray",
+        "key": "shiro_pray"
+    },
+    {
+        "id": "970524397297336380",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_SpikeHead",
+        "key": "shiro_spikehead"
+    },
+    {
+        "id": "970524397729349642",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Rainbow",
+        "key": "shiro_rainbow"
+    },
+    {
+        "id": "970524398635327538",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Riot",
+        "key": "shiro_riot"
+    },
+    {
+        "id": "970532286388903976",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Sip",
+        "key": "shiro_sip"
+    },
+    {
+        "id": "970532286397304882",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Study",
+        "key": "shiro_study"
+    },
+    {
+        "id": "970532286644752424",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Sprout",
+        "key": "shiro_sprout"
+    },
+    {
+        "id": "970909833370943519",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Great",
+        "key": "shiro_great"
+    },
+    {
+        "id": "970909836516655135",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Surprised",
+        "key": "shiro_surprised"
+    },
+    {
+        "id": "970909836973838407",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Lewd",
+        "key": "shiro_lewd"
+    },
+    {
+        "id": "970909839293317150",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Pout",
+        "key": "shiro_pout"
+    },
+    {
+        "id": "970909841927340072",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_AngryFace",
+        "key": "shiro_angryface"
+    },
+    {
+        "id": "970909842539675678",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Smug",
+        "key": "shiro_smug"
+    },
+    {
+        "id": "970933078488915998",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Yes",
+        "key": "shiro_yes"
+    },
+    {
+        "id": "970933079000637451",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sorry",
+        "key": "shiro_sorry"
+    },
+    {
+        "id": "970933079839485982",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_PatHead",
+        "key": "shiro_pathead"
+    },
+    {
+        "id": "970933080019845130",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sleep",
+        "key": "shiro_sleep"
+    },
+    {
+        "id": "970933080049221672",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Dead",
+        "key": "shiro_dead"
+    },
+    {
+        "id": "970933080154071040",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Hmph",
+        "key": "shiro_hmph"
+    },
+    {
+        "id": "970933080200212573",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_CoolGlasses",
+        "key": "shiro_coolglasses"
+    },
+    {
+        "id": "970933080594481202",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Notes",
+        "key": "shiro_notes"
+    },
+    {
+        "id": "973121324761374731",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Zoom",
+        "key": "shiro_zoom"
+    },
+    {
+        "id": "973121325390508092",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Note",
+        "key": "shiro_note"
+    },
+    {
+        "id": "973121326690742282",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Shut",
+        "key": "shiro_shut"
+    },
+    {
+        "id": "973121328364269568",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Amazed",
+        "key": "shiro_amazed"
+    },
+    {
+        "id": "973121328573984808",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sipping",
+        "key": "shiro_sipping"
+    },
+    {
+        "id": "973121328666247198",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_LurkLove",
+        "key": "shiro_lurklove"
+    },
+    {
+        "id": "973174609002258484",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Point",
+        "key": "shiro_point"
+    },
+    {
+        "id": "973174609732055100",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sweat",
+        "key": "shiro_sweat"
+    },
+    {
+        "id": "973174613012021298",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Celebrate",
+        "key": "shiro_celebrate"
+    },
+    {
+        "id": "973174613016199228",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Think",
+        "key": "shiro_think"
+    },
+    {
+        "id": "973174613079130152",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Question",
+        "key": "shiro_question"
+    },
+    {
+        "id": "973174613083316234",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Hug",
+        "key": "shiro_hug"
+    },
+    {
+        "id": "973174614060572742",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Ban",
+        "key": "shiro_ban"
+    },
+    {
+        "id": "973174614068961372",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Wow",
+        "key": "shiro_wow"
+    },
+    {
+        "id": "973174704821129276",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Shrug",
+        "key": "shiro_shrug"
+    },
+    {
+        "id": "973175286168449064",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Panties",
+        "key": "shiro_panties"
+    },
+    {
+        "id": "973175286868885515",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Tired",
+        "key": "shiro_tired"
+    },
+    {
+        "id": "973175287372189736",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Bleh",
+        "key": "shiro_bleh"
+    },
+    {
+        "id": "973175288013946910",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Chaotic",
+        "key": "shiro_chaotic"
+    },
+    {
+        "id": "973175288110383125",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_GGs",
+        "key": "shiro_ggs"
+    },
+    {
+        "id": "973175288223649883",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Stare",
+        "key": "shiro_stare"
+    },
+    {
+        "id": "973175288404013086",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_BonkHammer",
+        "key": "shiro_bonkhammer"
+    },
+    {
+        "id": "973175288735363142",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Blush",
+        "key": "shiro_blush"
+    },
+    {
+        "id": "973175288970235904",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Killer",
+        "key": "shiro_killer"
+    },
+    {
+        "id": "974300667432808448",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Shocked",
+        "key": "shiro_shocked"
+    },
+    {
+        "id": "974300670016503818",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Salute",
+        "key": "shiro_salute"
+    },
+    {
+        "id": "974300670473699348",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sneeze",
+        "key": "shiro_sneeze"
+    },
+    {
+        "id": "974300671727788052",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Derp",
+        "key": "shiro_derp"
+    },
+    {
+        "id": "974300671954284604",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_AngryFire",
+        "key": "shiro_angryfire"
+    },
+    {
+        "id": "974300671966855188",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Read",
+        "key": "shiro_read"
+    },
+    {
+        "id": "974300672029753384",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_LurkGrass",
+        "key": "shiro_lurkgrass"
+    },
+    {
+        "id": "974300672168169542",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_RainbowPuke",
+        "key": "shiro_rainbowpuke"
+    },
+    {
+        "id": "974300672356937738",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Devil",
+        "key": "shiro_devil"
+    },
+    {
+        "id": "974300672377909279",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Angel",
+        "key": "shiro_angel"
+    },
+    {
+        "id": "974300672499539968",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_KillEvil",
+        "key": "shiro_killevil"
+    },
+    {
+        "id": "974300673518739517",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Noodles",
+        "key": "shiro_noodles"
+    },
+    {
+        "id": "976097536710426674",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Leave",
+        "key": "shiro_leave"
+    },
+    {
+        "id": "976097575939764285",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_ThumbsUp",
+        "key": "shiro_thumbsup"
+    },
+    {
+        "id": "976097576845737984",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_NotesTaking",
+        "key": "shiro_notestaking"
+    },
+    {
+        "id": "976097577890091100",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Typing",
+        "key": "shiro_typing"
+    },
+    {
+        "id": "976097578162733136",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Twerk",
+        "key": "shiro_twerk"
+    },
+    {
+        "id": "977106708251951134",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_HugLove",
+        "key": "shiro_huglove"
+    },
+    {
+        "id": "977106835087720468",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Toxic",
+        "key": "shiro_toxic"
+    },
+    {
+        "id": "977106842104766494",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_FatGuy",
+        "key": "shiro_fatguy"
+    },
+    {
+        "id": "977106842280927262",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Smh",
+        "key": "shiro_smh"
+    },
+    {
+        "id": "977106842650050560",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_KissRight",
+        "key": "shiro_kissright"
+    },
+    {
+        "id": "977106843589566564",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Down",
+        "key": "shiro_down"
+    },
+    {
+        "id": "977106843891560478",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Ily",
+        "key": "shiro_ily"
+    },
+    {
+        "id": "977106843941867521",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Hot",
+        "key": "shiro_hot"
+    },
+    {
+        "id": "977106844101259264",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Fish",
+        "key": "shiro_fish"
+    },
+    {
+        "id": "977106844709425202",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_AAAAAAAA",
+        "key": "shiro_aaaaaaaa"
+    },
+    {
+        "id": "977106844956901377",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_KissLeft",
+        "key": "shiro_kissleft"
+    },
+    {
+        "id": "977106846131310602",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Kms",
+        "key": "shiro_kms"
+    },
+    {
+        "id": "977108465170399324",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Wondering",
+        "key": "shiro_wondering"
+    },
+    {
+        "id": "977108465644355604",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sob",
+        "key": "shiro_sob"
+    },
+    {
+        "id": "977108518530342912",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Book",
+        "key": "shiro_book"
+    },
+    {
+        "id": "977108521088851998",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Staring",
+        "key": "shiro_staring"
+    },
+    {
+        "id": "977108521294381056",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Trash",
+        "key": "shiro_trash"
+    },
+    {
+        "id": "977108521365692447",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Pepe",
+        "key": "shiro_pepe"
+    },
+    {
+        "id": "977108521428615178",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Eat",
+        "key": "shiro_eat"
+    },
+    {
+        "id": "977108521617326120",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Bread",
+        "key": "shiro_bread"
+    },
+    {
+        "id": "977108521659297832",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Eating",
+        "key": "shiro_eating"
+    },
+    {
+        "id": "977108521839632384",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Weh",
+        "key": "shiro_weh"
+    },
+    {
+        "id": "977108522837897286",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Hands",
+        "key": "shiro_hands"
+    },
+    {
+        "id": "977108523299250196",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Run",
+        "key": "shiro_run"
+    },
+    {
+        "id": "977416295005970502",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Peek",
+        "key": "shiro_peek"
+    },
+    {
+        "id": "977416306015997952",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_WinkLove",
+        "key": "shiro_winklove"
+    },
+    {
+        "id": "977416314215866448",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_ThumbsDown",
+        "key": "shiro_thumbsdown"
+    },
+    {
+        "id": "977416314454958150",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Epic",
+        "key": "shiro_epic"
+    },
+    {
+        "id": "977416314467536916",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_HeartEyes",
+        "key": "shiro_hearteyes"
+    },
+    {
+        "id": "977416315465793606",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Pls",
+        "key": "shiro_pls"
+    },
+    {
+        "id": "977416316006854716",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Simp",
+        "key": "shiro_simp"
+    },
+    {
+        "id": "977416320507330600",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_FacePalm",
+        "key": "shiro_facepalm"
+    },
+    {
+        "id": "977416326551314525",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Comfy",
+        "key": "shiro_comfy"
+    },
+    {
+        "id": "977416327629271120",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_EvilCute",
+        "key": "shiro_evilcute"
+    },
+    {
+        "id": "977416330644959242",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Eyeroll",
+        "key": "shiro_eyeroll"
+    },
+    {
+        "id": "977416331290898432",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Singing",
+        "key": "shiro_singing"
+    },
+    {
+        "id": "977416332016492574",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_AngelCute",
+        "key": "shiro_angelcute"
+    },
+    {
+        "id": "977416332536582144",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_HandsUp",
+        "key": "shiro_handsup"
+    },
+    {
+        "id": "977416332654043146",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Song",
+        "key": "shiro_song"
+    },
+    {
+        "id": "977417990792433714",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_UwU",
+        "key": "shiro_uwu_0"
+    },
+    {
+        "id": "977418000196075530",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Drink",
+        "key": "shiro_drink"
+    },
+    {
+        "id": "977418000800026624",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_HeartLove",
+        "key": "shiro_heartlove"
+    },
+    {
+        "id": "977418002444189736",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Death",
+        "key": "shiro_death"
+    },
+    {
+        "id": "977418003673141248",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Shy",
+        "key": "shiro_shy"
+    },
+    {
+        "id": "977418003803160586",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Patting",
+        "key": "shiro_patting"
+    },
+    {
+        "id": "977418004201631794",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Cringe",
+        "key": "shiro_cringe"
+    },
+    {
+        "id": "977418004369375232",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Kiss",
+        "key": "shiro_kiss"
+    },
+    {
+        "id": "984013653370105886",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sweating",
+        "key": "shiro_sweating"
+    },
+    {
+        "id": "984013658449395712",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_WOW",
+        "key": "shiro_wow_0"
+    },
+    {
+        "id": "984013666561163304",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sleepy",
+        "key": "shiro_sleepy"
+    },
+    {
+        "id": "984013671405613096",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Snipe",
+        "key": "shiro_snipe"
+    },
+    {
+        "id": "984013677109866536",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Blanket",
+        "key": "shiro_blanket"
+    },
+    {
+        "id": "984013682830868500",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Whoaa",
+        "key": "shiro_whoaa"
+    },
+    {
+        "id": "984013687482376212",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Judging",
+        "key": "shiro_judging"
+    },
+    {
+        "id": "984013691857031208",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Scam",
+        "key": "shiro_scam"
+    },
+    {
+        "id": "984013696651132938",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_TiredDesk",
+        "key": "shiro_tireddesk"
+    },
+    {
+        "id": "984013702040788992",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Laptop",
+        "key": "shiro_laptop"
+    },
+    {
+        "id": "984013708416139264",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Impatient",
+        "key": "shiro_impatient"
+    },
+    {
+        "id": "984013715055726593",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Search",
+        "key": "shiro_search"
+    },
+    {
+        "id": "984013719522644008",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_FAQ",
+        "key": "shiro_faq"
+    },
+    {
+        "id": "984013726942375946",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Idoling",
+        "key": "shiro_idoling"
+    },
+    {
+        "id": "984013731686129684",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Princess",
+        "key": "shiro_princess"
+    },
+    {
+        "id": "984013736878686229",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_CoolAF",
+        "key": "shiro_coolaf"
+    },
+    {
+        "id": "984013742155108362",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Introvert",
+        "key": "shiro_introvert"
+    },
+    {
+        "id": "984013746852724778",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Hammer",
+        "key": "shiro_hammer"
+    },
+    {
+        "id": "984020730813497344",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_BeachBall",
+        "key": "shiro_beachball"
+    },
+    {
+        "id": "984020740628185138",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Bye",
+        "key": "shiro_bye"
+    },
+    {
+        "id": "984020756465856522",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Drool",
+        "key": "shiro_drool"
+    },
+    {
+        "id": "984020782093066240",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_DAB",
+        "key": "shiro_dab_0"
+    },
+    {
+        "id": "984020786341888060",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Dum",
+        "key": "shiro_dum"
+    },
+    {
+        "id": "984020790607495228",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_FSign",
+        "key": "shiro_fsign"
+    },
+    {
+        "id": "984020797251285003",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_UNOReverse",
+        "key": "shiro_unoreverse"
+    },
+    {
+        "id": "984020806986252318",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Clown",
+        "key": "shiro_clown"
+    },
+    {
+        "id": "984020814208847882",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Blind",
+        "key": "shiro_blind"
+    },
+    {
+        "id": "984020819611119656",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Beer",
+        "key": "shiro_beer"
+    },
+    {
+        "id": "984020824434565170",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Police",
+        "key": "shiro_police"
+    },
+    {
+        "id": "984020829425791020",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Lay",
+        "key": "shiro_lay"
+    },
+    {
+        "id": "984020837768265758",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Ad",
+        "key": "shiro_ad"
+    },
+    {
+        "id": "984020841765429280",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Grab",
+        "key": "shiro_grab"
+    },
+    {
+        "id": "984020847008296961",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_Nod",
+        "key": "shiro_nod"
+    },
+    {
+        "id": "984021055012212746",
+        "guildId": "963165810128474163",
+        "animated": true,
+        "oldName": "Shiro_HandsInAir",
+        "key": "shiro_handsinair"
+    },
+    {
+        "id": "984034353581555742",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Roll",
+        "key": "shiro_roll"
+    },
+    {
+        "id": "984034363148730368",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Redbull",
+        "key": "shiro_redbull"
+    },
+    {
+        "id": "984034397865009163",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sitting",
+        "key": "shiro_sitting"
+    },
+    {
+        "id": "984034404982722571",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Ping",
+        "key": "shiro_ping"
+    },
+    {
+        "id": "984034410947026964",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_PingTriggered",
+        "key": "shiro_pingtriggered"
+    },
+    {
+        "id": "984034416072482866",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Bully",
+        "key": "shiro_bully"
+    },
+    {
+        "id": "984034425153142844",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Cross",
+        "key": "shiro_cross"
+    },
+    {
+        "id": "984034430387630111",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Bongo",
+        "key": "shiro_bongo"
+    },
+    {
+        "id": "984034436754591785",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_PointAtScreen",
+        "key": "shiro_pointatscreen"
+    },
+    {
+        "id": "984034441762578472",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Licking",
+        "key": "shiro_licking"
+    },
+    {
+        "id": "984034454005743657",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_MiddleFinger",
+        "key": "shiro_middlefinger"
+    },
+    {
+        "id": "984034463250010153",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Trophy",
+        "key": "shiro_trophy"
+    },
+    {
+        "id": "984034491880337438",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Gift",
+        "key": "shiro_gift"
+    },
+    {
+        "id": "984034567709134858",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Cake",
+        "key": "shiro_cake"
+    },
+    {
+        "id": "984034574671679500",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Baka",
+        "key": "shiro_baka"
+    },
+    {
+        "id": "984034580761817099",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_WHAT",
+        "key": "shiro_what"
+    },
+    {
+        "id": "984034587829227540",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Snowcome",
+        "key": "shiro_snowcome"
+    },
+    {
+        "id": "984034593076281344",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Sit",
+        "key": "shiro_sit"
+    },
+    {
+        "id": "984034598931554314",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_NyaPose",
+        "key": "shiro_nyapose"
+    },
+    {
+        "id": "984034606984593478",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Popcorn",
+        "key": "shiro_popcorn"
+    },
+    {
+        "id": "984034610822381640",
+        "guildId": "963165810128474163",
+        "animated": false,
+        "oldName": "Shiro_Menace",
+        "key": "shiro_menace"
+    }
+]
