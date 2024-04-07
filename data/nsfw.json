@@ -1,9 +1,16 @@
 [
     {
-        "id": "1181859342471942214",
-        "guildId": "1177527463996305418",
-        "animated": true,
-        "oldName": "fuck_hard",
-        "key": "fuck_hard"
+        "id": "1213149726439116876",
+        "guildId": "1206436722053877820",
+        "animated": false,
+        "oldName": "691",
+        "key": "691"
+    },
+    {
+        "id": "1213149780813807727",
+        "guildId": "1206436722053877820",
+        "animated": false,
+        "oldName": "692",
+        "key": "692"
     }
 ]
